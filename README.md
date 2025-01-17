@@ -18,7 +18,14 @@ Prerequisites
 2. A system with sufficient memory and a compatible GPU (optional but recommended for faster inference).
 3. Llama 2 model file: Ensure you have downloaded the model binary file (llama-2-7b-chat.ggmlv3.q8_0.bin) and placed it in the appropriate directory.
 
+### Installation
+1. Clone the repository:
 ```
 git clone https://github.com/yourusername/blog-generation-llama2.git
 cd blog-generation-llama2
 ```
+2. Install the required Python packages:
+
+   ```
+   pip install -r requirements.txt
+   ```
