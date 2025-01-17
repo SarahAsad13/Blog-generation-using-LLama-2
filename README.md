@@ -20,12 +20,17 @@ Prerequisites
 
 ### Installation
 1. Clone the repository:
-```
-git clone https://github.com/yourusername/blog-generation-llama2.git
-cd blog-generation-llama2
-```
+   ```
+   git clone https://github.com/yourusername/blog-generation-llama2.git
+   cd blog-generation-llama2
+   ```
 2. Install the required Python packages:
 
    ```
    pip install -r requirements.txt
+   ```
+3. Place the Llama 2 model in the models/ directory:
+   ```
+   mkdir models
+   mv /path/to/llama-2-7b-chat.ggmlv3.q8_0.bin models/
    ```
