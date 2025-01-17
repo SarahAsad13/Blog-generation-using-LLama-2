@@ -38,8 +38,8 @@ Prerequisites:
   ### Usage
   1. Enter a blog topic in the Blog Topic input field.
   2. Specify:
-    Number of Words: Desired word count for the blog.
-    Writing the Blog For: Select the target audience (e.g., Researchers, Data Scientists, or Common People).
-    Click Generate.
-    View the generated blog content directly in the app after few minutes.
+    • Number of Words: Desired word count for the blog.
+    • Writing the Blog For: Select the target audience (e.g., Researchers, Data Scientists, or Common People).
+    • Click Generate.
+    • View the generated blog content directly in the app after few minutes.
  
