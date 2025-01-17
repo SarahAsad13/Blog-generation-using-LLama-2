@@ -35,6 +35,13 @@ Prerequisites:
    mv /path/to/llama-2-7b-chat.ggmlv3.q8_0.bin models/
    ```
 
+  ### Run the application
+  1. Start the Streamlit app:
+     ```
+     streamlit run app.py
+     ```
+  2. Open your browser and navigate to http://localhost:8501.   
+
   ### Usage
   1. Enter a blog topic in the Blog Topic input field.
   2. Specify:
