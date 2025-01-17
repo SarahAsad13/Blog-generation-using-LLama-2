@@ -12,7 +12,7 @@ This project is a blog generation app that leverages the Llama 2 language model 
  • Target audience
 
 ### Setup Instructions
-Prerequisites
+Prerequisites:
 
 1. Python 3.8 or later.
 2. A system with sufficient memory and a compatible GPU (optional but recommended for faster inference).
@@ -34,3 +34,12 @@ Prerequisites
    mkdir models
    mv /path/to/llama-2-7b-chat.ggmlv3.q8_0.bin models/
    ```
+
+  ### Usage
+  1. Enter a blog topic in the Blog Topic input field.
+  2. Specify:
+    Number of Words: Desired word count for the blog.
+    Writing the Blog For: Select the target audience (e.g., Researchers, Data Scientists, or Common People).
+    Click Generate.
+    View the generated blog content directly in the app after few minutes.
+ 
