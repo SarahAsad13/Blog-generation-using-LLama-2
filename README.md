@@ -17,3 +17,8 @@ Prerequisites
 1. Python 3.8 or later.
 2. A system with sufficient memory and a compatible GPU (optional but recommended for faster inference).
 3. Llama 2 model file: Ensure you have downloaded the model binary file (llama-2-7b-chat.ggmlv3.q8_0.bin) and placed it in the appropriate directory.
+
+'''
+git clone https://github.com/yourusername/blog-generation-llama2.git
+cd blog-generation-llama2
+'''
