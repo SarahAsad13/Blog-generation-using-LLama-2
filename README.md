@@ -37,7 +37,7 @@ Prerequisites:
 
   ### Usage
   1. Enter a blog topic in the Blog Topic input field.
-  2. Specify:
+  2. Specify:\n
     • Number of Words: Desired word count for the blog.
     • Writing the Blog For: Select the target audience (e.g., Researchers, Data Scientists, or Common People).
     • Click Generate.
